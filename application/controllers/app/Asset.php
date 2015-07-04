@@ -1,9 +1,4 @@
 <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
-// Autoloaded Libraries : vezir|database|session|form_validation|user_agent|vcache|image_moo
-// Autoloaded Helpers   : url|form|language|html|text|array|cookie|security|date|vayes|vdebug|vcaptcha
-// Autoloaded Configs   : vayes_config|vcaptcha
-// Autoloaded Langauges : generic
-// Autoloaded Models    : app_m|user_m
 
 class Assets extends Backend_Controller {
 
